@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://raw.githubusercontent.com/khalleb/ignews/main/public/images/avatar.svg" alt="" width="100px"/>
+<img src="https://raw.githubusercontent.com/NaySoares/ignews/3a3c97be7441ffab3babe045d6b5d27d58012c9b/public/images/avatar.svg" alt="" width="100px"/>
 
 </h1>
 
@@ -9,16 +9,14 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/khalleb/ignews"/>
-
 ---
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; &#xa0; | &#xa0;
-  <a href="#framed_picture-imagens">Imagens</a> &#xa0; &#xa0;
+  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#requerimentos">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#começando">Começando</a> &#xa0; &#xa0; | &#xa0;
+  <a href="#imagens">Imagens</a> &#xa0; &#xa0;
 </p>
 
 <br>
