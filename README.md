@@ -69,6 +69,6 @@ $ yarn dev
 
 <h1 align="center">
     <img alt = "Web app" src = "./.img/ignews01.jpg" width = "500px" />
-    <img alt = "Web app" src = "./.img/ignews02.jpg" width = "500px" />
+    <img alt = "Web app" src = "./.img/ignews03.jpg" width = "500px" />
     <img alt = "Web app" src = "./.img/ignews04.jpg" width = "500px" />
 </h1>
